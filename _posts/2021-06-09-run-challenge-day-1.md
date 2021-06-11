@@ -1,6 +1,9 @@
-# 4 Week - 10 km Running Challenge
-This is officially my first blog post and a start to trying to respark my passion for running. Of all things this will aim to motivate myself, as well as to give realistic expectations of what preparing for a 10 km entails.  FYI I've never really followed any running plans before.
+---
+last-updated: home
+---
+This is officially my first blog post and a start to trying to respark my passion for running. Of all things this will aim to motivate myself, as well as to give realistic expectations of what preparing for a 10 km entails.  I've never really followed any running plans before.
 
+# 4 Week - 10 km Running Challenge
 ### What is this challenge?
 Essentially my goal is to follow a 4 week (30 day) training plan to build up to a 10 km (6.2 miles) run.  
 
