@@ -1,5 +1,5 @@
 ---
-last-updated: home
+last-updated: June 10, 2021
 ---
 This is officially my first blog post and a start to trying to respark my passion for running. Of all things this will aim to motivate myself, as well as to give realistic expectations of what preparing for a 10 km entails.  I've never really followed any running plans before.
 
