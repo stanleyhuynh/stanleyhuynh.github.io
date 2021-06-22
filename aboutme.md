@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who am I?
-subtitle: Software engineer lost in learning anything and everything
+subtitle: Always trying to learn and improve, also I am a software engineer
 ---
 <!-- 
 My name is Stanley Huynh and I have the following qualities:
