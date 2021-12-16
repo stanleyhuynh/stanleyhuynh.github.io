@@ -1,2 +1,2 @@
 # stanleyhuynh.github.io
-s
+Simple web page designed to be a professional landing page for myself. 
