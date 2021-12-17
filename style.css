@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'HelveticaNeueHeading';
+    src: url('./fonts/Helvetica Neue LTW0697BlkCnObl.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'HelveticaNeue';
+    src: url('./fonts/Helvetica Neue UltraLight.ttf') format('truetype');
+}
+
+h1 {
+    top: 33vh;
+    text-align: center;
+    font-family: 'HelveticaNeueHeading';
+    font-size: 72px;
+    margin-bottom: 0px;
+}
+
+div {
+    padding-top: 33vh;
+    margin: auto;
+}
+
+p {
+    
+    text-align: center;
+    font-family: 'HelveticaNeue';
+    font-size: 21px;
+    color: white;
+}
+
+@media screen and (min-width: 600px) {
+    div {
+        width: 500px;
+    }
+}
+
+strong {
+    color: black;
+}
+
+body {
+    margin: 0 0;
+    height: 100vh;
+    background-image: url('./imgs/headshot-background.png');
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
