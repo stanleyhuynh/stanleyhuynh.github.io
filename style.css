@@ -17,7 +17,7 @@ h1 {
 }
 
 div {
-    width: 95vw;
+    width: 80vw;
     padding-top: 33vh;
     margin: auto;
 }
@@ -27,12 +27,6 @@ p {
     font-family: 'HelveticaNeue';
     font-size: 21px;
     color: white;
-}
-
-@media only screen and (min-width: 600px) {
-    div {
-        width: 500px;
-    }
 }
 
 strong {
